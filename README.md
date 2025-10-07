@@ -1,10 +1,8 @@
 <h1>Olá 👋, eu sou o Elias Chaves!</h1></br>
-Estudante de Sistemas de Informação, apaixonado por tecnologia e programação competitiva. Aqui você encontra meus projetos, aprendizados e contribuições. Vamos codar! 🚀</br>
+Estudante de Sistemas de Informação, apaixonado por tecnologia e programação competitiva.</br>Aqui você encontra meus projetos, aprendizados e contribuições. Vamos codar! 🚀</br>
 
 <h1>📌 Sobre mim</h1>
-
-Sou comunicativo, resiliente e proativo, vou atrás do que ainda não sei. Participei das Maratonas de Programação (2023 e 2024) e busco sempre entregar soluções eficientes enquanto aprendo novas tecnologias. 👨‍🎓💡</br>
-
+Sou desenvolvedor apaixonado por tecnologia, com foco em algoritmos, programação competitiva e construção de soluções práticas.</br>Gosto de transformar ideias em código útil. 👨‍🎓💡</br>
 <h3>📫 Contatos:</h3>
 <ul>
   <li>✉️ Email: ecs.chaves@gmail.com</li>
