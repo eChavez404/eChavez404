@@ -6,11 +6,10 @@
 </p>
 
 <h1>📌 Sobre mim</h1>
-Sou desenvolvedor apaixonado por tecnologia, com foco em algoritmos, programação competitiva e construção de soluções práticas.</br>Gosto de transformar ideias em código útil. 👨‍🎓💡</br>
+  Sou desenvolvedor apaixonado por tecnologia, com foco em algoritmos, programação competitiva e construção de soluções práticas.</br>Gosto de transformar ideias em código útil. 👨‍🎓💡</br>
 <h3>📫 Contatos:</h3>
 <ul>
   <li>✉️ Email: ecs.chaves@gmail.com</li>
-  <li>📱 WhatsApp: +55 (99) 98503-0310</li>
 </ul>
 
 <h3>🌟 Destaques:</h3>
