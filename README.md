@@ -1,5 +1,9 @@
 <h1>Olá 👋, eu sou o Elias Chaves!</h1></br>
-Estudante de Sistemas de Informação, apaixonado por tecnologia e programação competitiva.</br>Aqui você encontra meus projetos, aprendizados e contribuições. Vamos codar! 🚀</br>
+<p align="center">
+  <b>
+  Estudante de Sistemas de Informação, apaixonado por tecnologia e programação competitiva.<br>
+  Aqui você encontra meus projetos, aprendizados e contribuições. Vamos codar! 🚀</b>
+</p>
 
 <h1>📌 Sobre mim</h1>
 Sou desenvolvedor apaixonado por tecnologia, com foco em algoritmos, programação competitiva e construção de soluções práticas.</br>Gosto de transformar ideias em código útil. 👨‍🎓💡</br>
